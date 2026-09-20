@@ -7,15 +7,15 @@ export function getApiBase(): string {
   if (typeof window !== "undefined") {
     const envUrl = process.env.NEXT_PUBLIC_API_URL;
     if (envUrl && !envUrl.includes("localhost") && !envUrl.includes("127.0.0.1")) {
-      return envUrl;
+      return envUrl.replace(/\/+$/, "");
     }
     // Match current window hostname and protocol so port 8000 is always aligned with client origin
     return `${window.location.protocol}//${window.location.hostname}:8000`;
   }
-  return process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000";
+  return (process.env.NEXT_PUBLIC_API_URL || "http://127.0.0.1:8000").replace(/\/+$/, "");
 }
 
-const API_BASE = getApiBase();
+export const API_BASE = getApiBase();
 
 class APIError extends Error {
   constructor(
@@ -167,7 +167,7 @@ export const uploadApi = {
   upload: async (token: string, file: File): Promise<unknown> => {
     const formData = new FormData();
     formData.append("file", file);
-    const res = await fetch(`${API_BASE}/api/v1/upload`, {
+    const res = await fetch(`${getApiBase()}/api/v1/upload`, {
       method: "POST",
       headers: { Authorization: `Bearer ${token}` },
       body: formData,
@@ -343,7 +343,7 @@ export const shareApi = {
       token
     ),
   getView: async (shareToken: string) => {
-    const res = await fetch(`${API_BASE}/api/v1/share/view/${shareToken}`, { cache: "no-store" });
+    const res = await fetch(`${getApiBase()}/api/v1/share/view/${shareToken}`, { cache: "no-store" });
     if (!res.ok) {
       const err = await res.json().catch(() => ({ detail: "Shared report not available." }));
       throw new Error(err.detail || "Unable to load shared report.");

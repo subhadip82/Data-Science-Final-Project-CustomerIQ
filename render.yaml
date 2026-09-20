@@ -1,0 +1,42 @@
+# Render Blueprint Specification for CustomerIQ
+# Docs: https://render.com/docs/blueprint-spec
+
+services:
+  # ─── FastAPI Backend Web Service ──────────────────────────────────────────
+  - type: web
+    name: customeriq-backend
+    runtime: python
+    buildCommand: "pip install -r backend/requirements.txt"
+    startCommand: "cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT"
+    healthCheckPath: /health
+    plan: free
+    region: oregon
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: customeriq-db
+          property: connectionString
+      - key: CLERK_ISSUER
+        sync: false
+      - key: CLERK_JWKS_URL
+        sync: false
+      - key: CLERK_SECRET_KEY
+        sync: false
+      - key: CLERK_PUBLISHABLE_KEY
+        sync: false
+      - key: ALLOWED_ORIGINS
+        sync: false
+      - key: APP_NAME
+        value: "CustomerIQ API"
+      - key: PYTHON_VERSION
+        value: "3.12.7"
+      - key: ENVIRONMENT
+        value: "production"
+
+databases:
+  # ─── Managed PostgreSQL Database ──────────────────────────────────────────
+  - name: customeriq-db
+    databaseName: customeriq
+    user: customeriq_user
+    plan: free
+    region: oregon

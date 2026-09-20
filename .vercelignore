@@ -1,0 +1,10 @@
+# Vercel Ignore File
+backend/
+.pytest_cache/
+test_artifacts/
+*.db
+*.sqlite
+scripts/test_datasets/
+page.html
+test_root.html
+docs/
