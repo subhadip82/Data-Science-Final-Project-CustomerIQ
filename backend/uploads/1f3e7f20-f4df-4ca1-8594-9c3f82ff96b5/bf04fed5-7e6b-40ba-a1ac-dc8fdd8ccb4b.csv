@@ -1,0 +1,716 @@
+invoice_no,customer_id,description,quantity,unit_price,total_amount,invoice_date,country
+INV-1001,CUST-0060,Vertical Ergonomic Mouse,4,45.0,180.0,2025-06-09 13:00:00,France
+INV-1002,CUST-0002,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-04-13 12:00:00,France
+INV-1002,CUST-0002,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-04-13 12:00:00,France
+INV-1002,CUST-0002,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-04-13 12:00:00,France
+INV-1003,CUST-0064,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-10-07 20:00:00,Germany
+INV-1004,CUST-0053,Smart LED Desk Lamp,1,29.95,29.95,2025-04-30 16:00:00,United Kingdom
+INV-1004,CUST-0053,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-04-30 16:00:00,United Kingdom
+INV-1005,CUST-0049,Vertical Ergonomic Mouse,2,45.0,90.0,2025-06-07 09:00:00,Australia
+INV-1006,CUST-0054,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-01-31 10:00:00,United States
+INV-1006,CUST-0054,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-01-31 10:00:00,United States
+INV-1006,CUST-0054,Vertical Ergonomic Mouse,4,45.0,180.0,2025-01-31 10:00:00,United States
+INV-1007,CUST-0048,Vertical Ergonomic Mouse,2,45.0,90.0,2025-02-13 17:00:00,United States
+INV-1008,CUST-0051,USB-C Multiport Hub,2,39.99,79.98,2025-10-31 17:00:00,United Kingdom
+INV-1009,CUST-0031,Smart LED Desk Lamp,3,29.95,89.85,2025-05-14 13:00:00,France
+INV-1009,CUST-0031,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-05-14 13:00:00,France
+INV-1010,CUST-0035,Vertical Ergonomic Mouse,1,45.0,45.0,2025-02-08 11:00:00,Germany
+INV-1011,CUST-0020,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-03-26 15:00:00,United Kingdom
+INV-1011,CUST-0020,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-03-26 15:00:00,United Kingdom
+INV-1012,CUST-0046,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-08-20 12:00:00,Germany
+INV-1012,CUST-0046,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-08-20 12:00:00,Germany
+INV-1013,CUST-0039,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-12-23 17:00:00,Australia
+INV-1014,CUST-0019,Vertical Ergonomic Mouse,1,45.0,45.0,2025-05-08 13:00:00,United Kingdom
+INV-1014,CUST-0019,Smart LED Desk Lamp,3,29.95,89.85,2025-05-08 13:00:00,United Kingdom
+INV-1015,CUST-0034,Vertical Ergonomic Mouse,5,45.0,225.0,2025-01-16 14:00:00,Germany
+INV-1015,CUST-0034,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-01-16 14:00:00,Germany
+INV-1016,CUST-0060,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-03-13 09:00:00,United Kingdom
+INV-1017,CUST-0017,Smart LED Desk Lamp,1,29.95,29.95,2025-07-25 13:00:00,Germany
+INV-1017,CUST-0017,Vertical Ergonomic Mouse,5,45.0,225.0,2025-07-25 13:00:00,Germany
+INV-1017,CUST-0017,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-07-25 13:00:00,Germany
+INV-1018,CUST-0003,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-04-12 18:00:00,United Kingdom
+INV-1018,CUST-0003,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-04-12 18:00:00,United Kingdom
+INV-1019,CUST-0006,USB-C Multiport Hub,4,39.99,159.96,2025-01-26 10:00:00,United States
+INV-1019,CUST-0006,USB-C Multiport Hub,1,39.99,39.99,2025-01-26 10:00:00,United States
+INV-1019,CUST-0006,USB-C Multiport Hub,4,39.99,159.96,2025-01-26 10:00:00,United States
+INV-1020,CUST-0023,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-04-20 10:00:00,France
+INV-1020,CUST-0023,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-04-20 10:00:00,France
+INV-1021,CUST-0079,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-11-12 11:00:00,Japan
+INV-1021,CUST-0079,USB-C Multiport Hub,5,39.99,199.95,2025-11-12 11:00:00,Japan
+INV-1021,CUST-0079,USB-C Multiport Hub,1,39.99,39.99,2025-11-12 11:00:00,Japan
+INV-1022,CUST-0012,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-07-16 10:00:00,France
+INV-1022,CUST-0012,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-07-16 10:00:00,France
+INV-1023,CUST-0003,USB-C Multiport Hub,3,39.99,119.97,2025-07-03 15:00:00,United States
+INV-1023,CUST-0003,Vertical Ergonomic Mouse,5,45.0,225.0,2025-07-03 15:00:00,United States
+INV-1023,CUST-0003,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-07-03 15:00:00,United States
+INV-1024,CUST-0035,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-01-14 13:00:00,Germany
+INV-1024,CUST-0035,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-01-14 13:00:00,Germany
+INV-1024,CUST-0035,USB-C Multiport Hub,5,39.99,199.95,2025-01-14 13:00:00,Germany
+INV-1025,CUST-0046,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-04-30 10:00:00,Japan
+INV-1026,CUST-0035,Vertical Ergonomic Mouse,4,45.0,180.0,2025-01-29 20:00:00,Japan
+INV-1027,CUST-0046,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-04-01 11:00:00,Germany
+INV-1027,CUST-0046,Vertical Ergonomic Mouse,1,45.0,45.0,2025-04-01 11:00:00,Germany
+INV-1027,CUST-0046,Smart LED Desk Lamp,3,29.95,89.85,2025-04-01 11:00:00,Germany
+INV-1028,CUST-0073,USB-C Multiport Hub,5,39.99,199.95,2025-03-14 17:00:00,Japan
+INV-1029,CUST-0040,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-09-09 08:00:00,Germany
+INV-1030,CUST-0078,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-01-11 16:00:00,Germany
+INV-1030,CUST-0078,Vertical Ergonomic Mouse,2,45.0,90.0,2025-01-11 16:00:00,Germany
+INV-1031,CUST-0017,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-04-01 20:00:00,France
+INV-1031,CUST-0017,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-04-01 20:00:00,France
+INV-1032,CUST-0019,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-09-27 13:00:00,United Kingdom
+INV-1033,CUST-0076,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-06-22 12:00:00,United Kingdom
+INV-1033,CUST-0076,Smart LED Desk Lamp,4,29.95,119.8,2025-06-22 12:00:00,United Kingdom
+INV-1034,CUST-0063,Vertical Ergonomic Mouse,5,45.0,225.0,2025-06-12 10:00:00,Australia
+INV-1034,CUST-0063,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-06-12 10:00:00,Australia
+INV-1034,CUST-0063,Smart LED Desk Lamp,5,29.95,149.75,2025-06-12 10:00:00,Australia
+INV-1035,CUST-0023,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-06-07 19:00:00,United States
+INV-1035,CUST-0023,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-06-07 19:00:00,United States
+INV-1035,CUST-0023,Smart LED Desk Lamp,5,29.95,149.75,2025-06-07 19:00:00,United States
+INV-1036,CUST-0051,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-01-17 10:00:00,Japan
+INV-1036,CUST-0051,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-01-17 10:00:00,Japan
+INV-1036,CUST-0051,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-01-17 10:00:00,Japan
+INV-1037,CUST-0019,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-02-09 11:00:00,France
+INV-1037,CUST-0019,Smart LED Desk Lamp,1,29.95,29.95,2025-02-09 11:00:00,France
+INV-1038,CUST-0043,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-01-06 12:00:00,United States
+INV-1039,CUST-0045,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-02-25 19:00:00,France
+INV-1040,CUST-0057,USB-C Multiport Hub,4,39.99,159.96,2025-08-03 10:00:00,Australia
+INV-1040,CUST-0057,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-08-03 10:00:00,Australia
+INV-1041,CUST-0049,Smart LED Desk Lamp,2,29.95,59.9,2025-09-03 20:00:00,United Kingdom
+INV-1041,CUST-0049,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-09-03 20:00:00,United Kingdom
+INV-1041,CUST-0049,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-09-03 20:00:00,United Kingdom
+INV-1042,CUST-0038,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-06-13 12:00:00,United Kingdom
+INV-1043,CUST-0022,Vertical Ergonomic Mouse,1,45.0,45.0,2025-03-24 19:00:00,United States
+INV-1044,CUST-0044,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-11-11 15:00:00,Japan
+INV-1044,CUST-0044,Smart LED Desk Lamp,2,29.95,59.9,2025-11-11 15:00:00,Japan
+INV-1044,CUST-0044,Vertical Ergonomic Mouse,4,45.0,180.0,2025-11-11 15:00:00,Japan
+INV-1045,CUST-0021,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-02-21 13:00:00,United Kingdom
+INV-1046,CUST-0071,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-10-04 12:00:00,Australia
+INV-1046,CUST-0071,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-10-04 12:00:00,Australia
+INV-1046,CUST-0071,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-10-04 12:00:00,Australia
+INV-1047,CUST-0074,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-09-09 10:00:00,Japan
+INV-1048,CUST-0055,Vertical Ergonomic Mouse,4,45.0,180.0,2025-05-31 18:00:00,United Kingdom
+INV-1048,CUST-0055,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-05-31 18:00:00,United Kingdom
+INV-1048,CUST-0055,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-05-31 18:00:00,United Kingdom
+INV-1049,CUST-0022,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-05-30 09:00:00,Australia
+INV-1049,CUST-0022,USB-C Multiport Hub,4,39.99,159.96,2025-05-30 09:00:00,Australia
+INV-1050,CUST-0063,Vertical Ergonomic Mouse,4,45.0,180.0,2025-05-16 09:00:00,Australia
+INV-1050,CUST-0063,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-05-16 09:00:00,Australia
+INV-1050,CUST-0063,USB-C Multiport Hub,3,39.99,119.97,2025-05-16 09:00:00,Australia
+INV-1051,CUST-0024,USB-C Multiport Hub,3,39.99,119.97,2025-01-23 12:00:00,United States
+INV-1051,CUST-0024,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-01-23 12:00:00,United States
+INV-1052,CUST-0073,Smart LED Desk Lamp,1,29.95,29.95,2025-03-19 20:00:00,United Kingdom
+INV-1052,CUST-0073,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-03-19 20:00:00,United Kingdom
+INV-1052,CUST-0073,Vertical Ergonomic Mouse,4,45.0,180.0,2025-03-19 20:00:00,United Kingdom
+INV-1053,CUST-0076,Vertical Ergonomic Mouse,4,45.0,180.0,2025-10-11 08:00:00,Germany
+INV-1053,CUST-0076,Vertical Ergonomic Mouse,4,45.0,180.0,2025-10-11 08:00:00,Germany
+INV-1054,CUST-0074,USB-C Multiport Hub,1,39.99,39.99,2025-09-01 12:00:00,Germany
+INV-1055,CUST-0065,Smart LED Desk Lamp,5,29.95,149.75,2025-09-22 20:00:00,Japan
+INV-1055,CUST-0065,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-09-22 20:00:00,Japan
+INV-1055,CUST-0065,USB-C Multiport Hub,2,39.99,79.98,2025-09-22 20:00:00,Japan
+INV-1056,CUST-0022,USB-C Multiport Hub,1,39.99,39.99,2025-04-09 10:00:00,Germany
+INV-1057,CUST-0056,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-11-18 10:00:00,Germany
+INV-1057,CUST-0056,Smart LED Desk Lamp,1,29.95,29.95,2025-11-18 10:00:00,Germany
+INV-1057,CUST-0056,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-11-18 10:00:00,Germany
+INV-1058,CUST-0072,Vertical Ergonomic Mouse,4,45.0,180.0,2025-10-10 13:00:00,United States
+INV-1058,CUST-0072,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-10-10 13:00:00,United States
+INV-1059,CUST-0076,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-08-03 09:00:00,Japan
+INV-1059,CUST-0076,Vertical Ergonomic Mouse,5,45.0,225.0,2025-08-03 09:00:00,Japan
+INV-1060,CUST-0075,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-02-24 17:00:00,United Kingdom
+INV-1061,CUST-0045,USB-C Multiport Hub,5,39.99,199.95,2025-05-16 14:00:00,United States
+INV-1061,CUST-0045,Vertical Ergonomic Mouse,4,45.0,180.0,2025-05-16 14:00:00,United States
+INV-1061,CUST-0045,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-05-16 14:00:00,United States
+INV-1062,CUST-0036,Smart LED Desk Lamp,4,29.95,119.8,2025-03-15 17:00:00,United States
+INV-1062,CUST-0036,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-03-15 17:00:00,United States
+INV-1062,CUST-0036,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-03-15 17:00:00,United States
+INV-1063,CUST-0007,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-09-01 12:00:00,Australia
+INV-1063,CUST-0007,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-09-01 12:00:00,Australia
+INV-1064,CUST-0036,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-12-23 18:00:00,United States
+INV-1065,CUST-0039,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-08-15 20:00:00,Australia
+INV-1065,CUST-0039,Vertical Ergonomic Mouse,1,45.0,45.0,2025-08-15 20:00:00,Australia
+INV-1066,CUST-0025,USB-C Multiport Hub,5,39.99,199.95,2025-04-19 14:00:00,United States
+INV-1066,CUST-0025,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-04-19 14:00:00,United States
+INV-1066,CUST-0025,Vertical Ergonomic Mouse,2,45.0,90.0,2025-04-19 14:00:00,United States
+INV-1067,CUST-0009,Vertical Ergonomic Mouse,5,45.0,225.0,2025-09-17 14:00:00,France
+INV-1068,CUST-0004,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-04-09 11:00:00,Germany
+INV-1069,CUST-0059,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-07-04 19:00:00,United Kingdom
+INV-1070,CUST-0060,Smart LED Desk Lamp,1,29.95,29.95,2025-07-23 18:00:00,Japan
+INV-1071,CUST-0031,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-09-08 17:00:00,France
+INV-1071,CUST-0031,Vertical Ergonomic Mouse,5,45.0,225.0,2025-09-08 17:00:00,France
+INV-1072,CUST-0045,Smart LED Desk Lamp,1,29.95,29.95,2025-03-25 12:00:00,France
+INV-1072,CUST-0045,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-03-25 12:00:00,France
+INV-1072,CUST-0045,USB-C Multiport Hub,1,39.99,39.99,2025-03-25 12:00:00,France
+INV-1073,CUST-0021,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-04-20 11:00:00,Japan
+INV-1073,CUST-0021,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-04-20 11:00:00,Japan
+INV-1073,CUST-0021,Vertical Ergonomic Mouse,1,45.0,45.0,2025-04-20 11:00:00,Japan
+INV-1074,CUST-0002,Vertical Ergonomic Mouse,1,45.0,45.0,2025-03-09 18:00:00,United States
+INV-1075,CUST-0029,Smart LED Desk Lamp,3,29.95,89.85,2025-11-08 20:00:00,France
+INV-1075,CUST-0029,USB-C Multiport Hub,4,39.99,159.96,2025-11-08 20:00:00,France
+INV-1076,CUST-0045,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-05-10 11:00:00,United States
+INV-1076,CUST-0045,Vertical Ergonomic Mouse,4,45.0,180.0,2025-05-10 11:00:00,United States
+INV-1077,CUST-0075,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-01-04 16:00:00,United Kingdom
+INV-1077,CUST-0075,Smart LED Desk Lamp,5,29.95,149.75,2025-01-04 16:00:00,United Kingdom
+INV-1077,CUST-0075,Vertical Ergonomic Mouse,3,45.0,135.0,2025-01-04 16:00:00,United Kingdom
+INV-1078,CUST-0039,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-02-25 15:00:00,Australia
+INV-1079,CUST-0042,Smart LED Desk Lamp,3,29.95,89.85,2025-05-14 18:00:00,France
+INV-1079,CUST-0042,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-05-14 18:00:00,France
+INV-1079,CUST-0042,Vertical Ergonomic Mouse,2,45.0,90.0,2025-05-14 18:00:00,France
+INV-1080,CUST-0008,Smart LED Desk Lamp,2,29.95,59.9,2025-07-26 18:00:00,Japan
+INV-1080,CUST-0008,Smart LED Desk Lamp,1,29.95,29.95,2025-07-26 18:00:00,Japan
+INV-1081,CUST-0064,USB-C Multiport Hub,1,39.99,39.99,2025-05-13 14:00:00,France
+INV-1081,CUST-0064,Vertical Ergonomic Mouse,5,45.0,225.0,2025-05-13 14:00:00,France
+INV-1082,CUST-0025,Smart LED Desk Lamp,4,29.95,119.8,2025-04-24 18:00:00,France
+INV-1082,CUST-0025,Smart LED Desk Lamp,3,29.95,89.85,2025-04-24 18:00:00,France
+INV-1082,CUST-0025,Vertical Ergonomic Mouse,3,45.0,135.0,2025-04-24 18:00:00,France
+INV-1083,CUST-0022,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-10-13 10:00:00,Australia
+INV-1083,CUST-0022,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-10-13 10:00:00,Australia
+INV-1084,CUST-0072,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-12-15 13:00:00,Germany
+INV-1084,CUST-0072,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-12-15 13:00:00,Germany
+INV-1084,CUST-0072,Smart LED Desk Lamp,3,29.95,89.85,2025-12-15 13:00:00,Germany
+INV-1085,CUST-0054,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-07-10 12:00:00,France
+INV-1085,CUST-0054,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-07-10 12:00:00,France
+INV-1085,CUST-0054,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-07-10 12:00:00,France
+INV-1086,CUST-0075,Vertical Ergonomic Mouse,1,45.0,45.0,2025-02-06 15:00:00,Japan
+INV-1087,CUST-0049,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-06-02 14:00:00,Japan
+INV-1088,CUST-0026,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-07-29 17:00:00,France
+INV-1088,CUST-0026,Smart LED Desk Lamp,2,29.95,59.9,2025-07-29 17:00:00,France
+INV-1089,CUST-0011,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-06-20 18:00:00,United States
+INV-1090,CUST-0001,Vertical Ergonomic Mouse,2,45.0,90.0,2025-05-21 11:00:00,United States
+INV-1091,CUST-0063,Smart LED Desk Lamp,4,29.95,119.8,2025-03-08 17:00:00,United Kingdom
+INV-1091,CUST-0063,USB-C Multiport Hub,4,39.99,159.96,2025-03-08 17:00:00,United Kingdom
+INV-1092,CUST-0062,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-01-03 08:00:00,United States
+INV-1092,CUST-0062,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-01-03 08:00:00,United States
+INV-1092,CUST-0062,Vertical Ergonomic Mouse,2,45.0,90.0,2025-01-03 08:00:00,United States
+INV-1093,CUST-0003,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-01-03 18:00:00,Australia
+INV-1093,CUST-0003,Smart LED Desk Lamp,3,29.95,89.85,2025-01-03 18:00:00,Australia
+INV-1093,CUST-0003,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-01-03 18:00:00,Australia
+INV-1094,CUST-0014,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-09-15 17:00:00,United States
+INV-1094,CUST-0014,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-09-15 17:00:00,United States
+INV-1095,CUST-0038,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-09-24 17:00:00,United States
+INV-1095,CUST-0038,Smart LED Desk Lamp,2,29.95,59.9,2025-09-24 17:00:00,United States
+INV-1095,CUST-0038,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-09-24 17:00:00,United States
+INV-1096,CUST-0046,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-03-26 20:00:00,Germany
+INV-1096,CUST-0046,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-03-26 20:00:00,Germany
+INV-1097,CUST-0028,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-01-12 17:00:00,Australia
+INV-1097,CUST-0028,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-01-12 17:00:00,Australia
+INV-1097,CUST-0028,USB-C Multiport Hub,3,39.99,119.97,2025-01-12 17:00:00,Australia
+INV-1098,CUST-0069,Smart LED Desk Lamp,1,29.95,29.95,2025-01-25 17:00:00,Japan
+INV-1099,CUST-0003,USB-C Multiport Hub,4,39.99,159.96,2025-12-20 09:00:00,United Kingdom
+INV-1099,CUST-0003,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-12-20 09:00:00,United Kingdom
+INV-1100,CUST-0033,Smart LED Desk Lamp,1,29.95,29.95,2025-12-26 10:00:00,United States
+INV-1101,CUST-0039,Vertical Ergonomic Mouse,3,45.0,135.0,2025-12-05 09:00:00,United States
+INV-1101,CUST-0039,Vertical Ergonomic Mouse,5,45.0,225.0,2025-12-05 09:00:00,United States
+INV-1101,CUST-0039,Smart LED Desk Lamp,2,29.95,59.9,2025-12-05 09:00:00,United States
+INV-1102,CUST-0054,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-09-19 19:00:00,United Kingdom
+INV-1102,CUST-0054,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-09-19 19:00:00,United Kingdom
+INV-1102,CUST-0054,USB-C Multiport Hub,2,39.99,79.98,2025-09-19 19:00:00,United Kingdom
+INV-1103,CUST-0078,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-05-15 16:00:00,Germany
+INV-1104,CUST-0038,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-01-21 16:00:00,Germany
+INV-1104,CUST-0038,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-01-21 16:00:00,Germany
+INV-1105,CUST-0001,Vertical Ergonomic Mouse,4,45.0,180.0,2025-12-10 09:00:00,United Kingdom
+INV-1106,CUST-0020,Smart LED Desk Lamp,1,29.95,29.95,2025-09-19 09:00:00,United Kingdom
+INV-1106,CUST-0020,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-09-19 09:00:00,United Kingdom
+INV-1106,CUST-0020,USB-C Multiport Hub,3,39.99,119.97,2025-09-19 09:00:00,United Kingdom
+INV-1107,CUST-0034,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-01-26 09:00:00,United States
+INV-1108,CUST-0047,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-06-10 14:00:00,Australia
+INV-1108,CUST-0047,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-06-10 14:00:00,Australia
+INV-1108,CUST-0047,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-06-10 14:00:00,Australia
+INV-1109,CUST-0043,Smart LED Desk Lamp,1,29.95,29.95,2025-08-13 17:00:00,France
+INV-1109,CUST-0043,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-08-13 17:00:00,France
+INV-1110,CUST-0024,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-07-25 14:00:00,United Kingdom
+INV-1110,CUST-0024,Smart LED Desk Lamp,4,29.95,119.8,2025-07-25 14:00:00,United Kingdom
+INV-1111,CUST-0054,Smart LED Desk Lamp,1,29.95,29.95,2025-03-27 09:00:00,Australia
+INV-1112,CUST-0021,Vertical Ergonomic Mouse,4,45.0,180.0,2025-08-02 17:00:00,United Kingdom
+INV-1112,CUST-0021,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-08-02 17:00:00,United Kingdom
+INV-1113,CUST-0049,Smart LED Desk Lamp,2,29.95,59.9,2025-11-10 08:00:00,France
+INV-1113,CUST-0049,USB-C Multiport Hub,4,39.99,159.96,2025-11-10 08:00:00,France
+INV-1113,CUST-0049,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-11-10 08:00:00,France
+INV-1114,CUST-0057,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-02-02 12:00:00,United Kingdom
+INV-1114,CUST-0057,Smart LED Desk Lamp,5,29.95,149.75,2025-02-02 12:00:00,United Kingdom
+INV-1114,CUST-0057,Smart LED Desk Lamp,5,29.95,149.75,2025-02-02 12:00:00,United Kingdom
+INV-1115,CUST-0073,Vertical Ergonomic Mouse,5,45.0,225.0,2025-12-09 13:00:00,Germany
+INV-1115,CUST-0073,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-12-09 13:00:00,Germany
+INV-1115,CUST-0073,Smart LED Desk Lamp,2,29.95,59.9,2025-12-09 13:00:00,Germany
+INV-1116,CUST-0062,USB-C Multiport Hub,2,39.99,79.98,2025-12-06 18:00:00,France
+INV-1116,CUST-0062,Vertical Ergonomic Mouse,5,45.0,225.0,2025-12-06 18:00:00,France
+INV-1116,CUST-0062,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-12-06 18:00:00,France
+INV-1117,CUST-0021,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-08-29 15:00:00,Japan
+INV-1118,CUST-0042,Vertical Ergonomic Mouse,2,45.0,90.0,2025-06-19 12:00:00,Germany
+INV-1119,CUST-0071,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-07-13 14:00:00,Australia
+INV-1120,CUST-0057,USB-C Multiport Hub,3,39.99,119.97,2025-08-18 09:00:00,Japan
+INV-1120,CUST-0057,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-08-18 09:00:00,Japan
+INV-1121,CUST-0003,Vertical Ergonomic Mouse,5,45.0,225.0,2025-07-26 14:00:00,United Kingdom
+INV-1122,CUST-0001,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-11-06 17:00:00,United Kingdom
+INV-1122,CUST-0001,Vertical Ergonomic Mouse,2,45.0,90.0,2025-11-06 17:00:00,United Kingdom
+INV-1122,CUST-0001,Smart LED Desk Lamp,4,29.95,119.8,2025-11-06 17:00:00,United Kingdom
+INV-1123,CUST-0044,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-01-28 11:00:00,France
+INV-1123,CUST-0044,Vertical Ergonomic Mouse,5,45.0,225.0,2025-01-28 11:00:00,France
+INV-1124,CUST-0061,USB-C Multiport Hub,1,39.99,39.99,2025-12-03 13:00:00,Australia
+INV-1124,CUST-0061,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-12-03 13:00:00,Australia
+INV-1124,CUST-0061,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-12-03 13:00:00,Australia
+INV-1125,CUST-0046,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-05-30 16:00:00,Australia
+INV-1125,CUST-0046,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-05-30 16:00:00,Australia
+INV-1125,CUST-0046,USB-C Multiport Hub,2,39.99,79.98,2025-05-30 16:00:00,Australia
+INV-1126,CUST-0053,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-05-11 17:00:00,United Kingdom
+INV-1127,CUST-0051,Smart LED Desk Lamp,3,29.95,89.85,2025-08-23 20:00:00,Germany
+INV-1128,CUST-0014,Vertical Ergonomic Mouse,1,45.0,45.0,2025-01-24 18:00:00,United States
+INV-1128,CUST-0014,USB-C Multiport Hub,4,39.99,159.96,2025-01-24 18:00:00,United States
+INV-1128,CUST-0014,Smart LED Desk Lamp,5,29.95,149.75,2025-01-24 18:00:00,United States
+INV-1129,CUST-0065,Smart LED Desk Lamp,1,29.95,29.95,2025-09-13 08:00:00,Germany
+INV-1129,CUST-0065,Vertical Ergonomic Mouse,4,45.0,180.0,2025-09-13 08:00:00,Germany
+INV-1129,CUST-0065,Vertical Ergonomic Mouse,4,45.0,180.0,2025-09-13 08:00:00,Germany
+INV-1130,CUST-0066,Smart LED Desk Lamp,2,29.95,59.9,2025-12-21 17:00:00,Germany
+INV-1131,CUST-0014,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-12-03 17:00:00,United States
+INV-1131,CUST-0014,USB-C Multiport Hub,4,39.99,159.96,2025-12-03 17:00:00,United States
+INV-1131,CUST-0014,Vertical Ergonomic Mouse,2,45.0,90.0,2025-12-03 17:00:00,United States
+INV-1132,CUST-0036,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-06-25 12:00:00,United States
+INV-1132,CUST-0036,USB-C Multiport Hub,5,39.99,199.95,2025-06-25 12:00:00,United States
+INV-1133,CUST-0066,Smart LED Desk Lamp,5,29.95,149.75,2025-12-26 16:00:00,France
+INV-1133,CUST-0066,Smart LED Desk Lamp,2,29.95,59.9,2025-12-26 16:00:00,France
+INV-1134,CUST-0026,Smart LED Desk Lamp,3,29.95,89.85,2025-11-16 19:00:00,Germany
+INV-1134,CUST-0026,Smart LED Desk Lamp,2,29.95,59.9,2025-11-16 19:00:00,Germany
+INV-1135,CUST-0023,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-10-05 19:00:00,Japan
+INV-1135,CUST-0023,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-10-05 19:00:00,Japan
+INV-1135,CUST-0023,USB-C Multiport Hub,5,39.99,199.95,2025-10-05 19:00:00,Japan
+INV-1136,CUST-0074,Vertical Ergonomic Mouse,3,45.0,135.0,2025-08-02 18:00:00,Australia
+INV-1136,CUST-0074,USB-C Multiport Hub,1,39.99,39.99,2025-08-02 18:00:00,Australia
+INV-1136,CUST-0074,Vertical Ergonomic Mouse,1,45.0,45.0,2025-08-02 18:00:00,Australia
+INV-1137,CUST-0004,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-03-16 08:00:00,United States
+INV-1137,CUST-0004,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-03-16 08:00:00,United States
+INV-1137,CUST-0004,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-03-16 08:00:00,United States
+INV-1138,CUST-0019,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-12-20 20:00:00,United Kingdom
+INV-1138,CUST-0019,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-12-20 20:00:00,United Kingdom
+INV-1139,CUST-0058,Vertical Ergonomic Mouse,2,45.0,90.0,2025-11-12 18:00:00,United Kingdom
+INV-1139,CUST-0058,Smart LED Desk Lamp,5,29.95,149.75,2025-11-12 18:00:00,United Kingdom
+INV-1139,CUST-0058,USB-C Multiport Hub,2,39.99,79.98,2025-11-12 18:00:00,United Kingdom
+INV-1140,CUST-0066,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-05-28 19:00:00,Australia
+INV-1140,CUST-0066,USB-C Multiport Hub,4,39.99,159.96,2025-05-28 19:00:00,Australia
+INV-1140,CUST-0066,Smart LED Desk Lamp,3,29.95,89.85,2025-05-28 19:00:00,Australia
+INV-1141,CUST-0071,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-01-07 19:00:00,United Kingdom
+INV-1141,CUST-0071,USB-C Multiport Hub,2,39.99,79.98,2025-01-07 19:00:00,United Kingdom
+INV-1142,CUST-0048,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-10-07 19:00:00,Japan
+INV-1142,CUST-0048,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-10-07 19:00:00,Japan
+INV-1142,CUST-0048,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-10-07 19:00:00,Japan
+INV-1143,CUST-0024,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-09-21 09:00:00,Germany
+INV-1143,CUST-0024,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-09-21 09:00:00,Germany
+INV-1144,CUST-0034,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-03-24 17:00:00,Germany
+INV-1144,CUST-0034,USB-C Multiport Hub,2,39.99,79.98,2025-03-24 17:00:00,Germany
+INV-1145,CUST-0006,Smart LED Desk Lamp,5,29.95,149.75,2025-06-15 17:00:00,Germany
+INV-1146,CUST-0039,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-10-21 16:00:00,United States
+INV-1146,CUST-0039,Vertical Ergonomic Mouse,2,45.0,90.0,2025-10-21 16:00:00,United States
+INV-1147,CUST-0024,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-02-04 20:00:00,Japan
+INV-1147,CUST-0024,Vertical Ergonomic Mouse,5,45.0,225.0,2025-02-04 20:00:00,Japan
+INV-1147,CUST-0024,USB-C Multiport Hub,1,39.99,39.99,2025-02-04 20:00:00,Japan
+INV-1148,CUST-0045,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-04-20 18:00:00,Germany
+INV-1148,CUST-0045,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-04-20 18:00:00,Germany
+INV-1149,CUST-0080,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-09-01 16:00:00,Japan
+INV-1149,CUST-0080,Smart LED Desk Lamp,3,29.95,89.85,2025-09-01 16:00:00,Japan
+INV-1149,CUST-0080,USB-C Multiport Hub,2,39.99,79.98,2025-09-01 16:00:00,Japan
+INV-1150,CUST-0079,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-05-05 08:00:00,Japan
+INV-1150,CUST-0079,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-05-05 08:00:00,Japan
+INV-1150,CUST-0079,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-05-05 08:00:00,Japan
+INV-1151,CUST-0037,Vertical Ergonomic Mouse,5,45.0,225.0,2025-09-22 20:00:00,United Kingdom
+INV-1151,CUST-0037,USB-C Multiport Hub,4,39.99,159.96,2025-09-22 20:00:00,United Kingdom
+INV-1152,CUST-0006,Vertical Ergonomic Mouse,1,45.0,45.0,2025-11-30 11:00:00,France
+INV-1152,CUST-0006,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-11-30 11:00:00,France
+INV-1153,CUST-0069,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-01-04 18:00:00,Japan
+INV-1154,CUST-0055,Smart LED Desk Lamp,4,29.95,119.8,2025-04-16 16:00:00,United Kingdom
+INV-1154,CUST-0055,Smart LED Desk Lamp,1,29.95,29.95,2025-04-16 16:00:00,United Kingdom
+INV-1154,CUST-0055,Smart LED Desk Lamp,2,29.95,59.9,2025-04-16 16:00:00,United Kingdom
+INV-1155,CUST-0004,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-06-19 08:00:00,United States
+INV-1156,CUST-0023,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-10-13 09:00:00,France
+INV-1156,CUST-0023,USB-C Multiport Hub,4,39.99,159.96,2025-10-13 09:00:00,France
+INV-1156,CUST-0023,USB-C Multiport Hub,4,39.99,159.96,2025-10-13 09:00:00,France
+INV-1157,CUST-0056,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-01-09 14:00:00,France
+INV-1157,CUST-0056,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-01-09 14:00:00,France
+INV-1157,CUST-0056,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-01-09 14:00:00,France
+INV-1158,CUST-0006,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-02-07 13:00:00,Australia
+INV-1158,CUST-0006,Smart LED Desk Lamp,3,29.95,89.85,2025-02-07 13:00:00,Australia
+INV-1158,CUST-0006,Vertical Ergonomic Mouse,1,45.0,45.0,2025-02-07 13:00:00,Australia
+INV-1159,CUST-0037,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-07-15 14:00:00,United States
+INV-1159,CUST-0037,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-07-15 14:00:00,United States
+INV-1159,CUST-0037,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-07-15 14:00:00,United States
+INV-1160,CUST-0051,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-06-01 18:00:00,Japan
+INV-1161,CUST-0002,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-10-12 10:00:00,Japan
+INV-1162,CUST-0074,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-07-21 16:00:00,Japan
+INV-1162,CUST-0074,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-07-21 16:00:00,Japan
+INV-1162,CUST-0074,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-07-21 16:00:00,Japan
+INV-1163,CUST-0066,Vertical Ergonomic Mouse,3,45.0,135.0,2025-03-24 10:00:00,Germany
+INV-1164,CUST-0025,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-04-03 18:00:00,United Kingdom
+INV-1164,CUST-0025,USB-C Multiport Hub,5,39.99,199.95,2025-04-03 18:00:00,United Kingdom
+INV-1164,CUST-0025,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-04-03 18:00:00,United Kingdom
+INV-1165,CUST-0009,Vertical Ergonomic Mouse,4,45.0,180.0,2025-02-20 11:00:00,France
+INV-1165,CUST-0009,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-02-20 11:00:00,France
+INV-1165,CUST-0009,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-02-20 11:00:00,France
+INV-1166,CUST-0013,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-11-14 09:00:00,France
+INV-1167,CUST-0058,Smart LED Desk Lamp,5,29.95,149.75,2025-11-12 18:00:00,France
+INV-1167,CUST-0058,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-11-12 18:00:00,France
+INV-1168,CUST-0073,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-06-11 14:00:00,France
+INV-1169,CUST-0032,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-11-25 14:00:00,Germany
+INV-1169,CUST-0032,Smart LED Desk Lamp,3,29.95,89.85,2025-11-25 14:00:00,Germany
+INV-1170,CUST-0062,USB-C Multiport Hub,5,39.99,199.95,2025-08-17 13:00:00,United States
+INV-1170,CUST-0062,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-08-17 13:00:00,United States
+INV-1171,CUST-0078,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-05-24 10:00:00,United Kingdom
+INV-1171,CUST-0078,Smart LED Desk Lamp,1,29.95,29.95,2025-05-24 10:00:00,United Kingdom
+INV-1171,CUST-0078,Smart LED Desk Lamp,1,29.95,29.95,2025-05-24 10:00:00,United Kingdom
+INV-1172,CUST-0003,Vertical Ergonomic Mouse,4,45.0,180.0,2025-11-20 08:00:00,Japan
+INV-1172,CUST-0003,Vertical Ergonomic Mouse,2,45.0,90.0,2025-11-20 08:00:00,Japan
+INV-1172,CUST-0003,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-11-20 08:00:00,Japan
+INV-1173,CUST-0034,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-10-04 15:00:00,Japan
+INV-1173,CUST-0034,USB-C Multiport Hub,2,39.99,79.98,2025-10-04 15:00:00,Japan
+INV-1173,CUST-0034,Vertical Ergonomic Mouse,3,45.0,135.0,2025-10-04 15:00:00,Japan
+INV-1174,CUST-0018,USB-C Multiport Hub,3,39.99,119.97,2025-09-14 16:00:00,United States
+INV-1175,CUST-0065,Smart LED Desk Lamp,2,29.95,59.9,2025-12-06 11:00:00,United Kingdom
+INV-1175,CUST-0065,Vertical Ergonomic Mouse,2,45.0,90.0,2025-12-06 11:00:00,United Kingdom
+INV-1175,CUST-0065,USB-C Multiport Hub,2,39.99,79.98,2025-12-06 11:00:00,United Kingdom
+INV-1176,CUST-0023,Smart LED Desk Lamp,4,29.95,119.8,2025-10-17 18:00:00,Japan
+INV-1177,CUST-0046,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-04-23 20:00:00,United Kingdom
+INV-1177,CUST-0046,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-04-23 20:00:00,United Kingdom
+INV-1178,CUST-0030,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-12-09 11:00:00,United Kingdom
+INV-1178,CUST-0030,USB-C Multiport Hub,4,39.99,159.96,2025-12-09 11:00:00,United Kingdom
+INV-1178,CUST-0030,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-12-09 11:00:00,United Kingdom
+INV-1179,CUST-0042,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-12-27 16:00:00,United Kingdom
+INV-1179,CUST-0042,Vertical Ergonomic Mouse,5,45.0,225.0,2025-12-27 16:00:00,United Kingdom
+INV-1179,CUST-0042,Vertical Ergonomic Mouse,2,45.0,90.0,2025-12-27 16:00:00,United Kingdom
+INV-1180,CUST-0049,Smart LED Desk Lamp,1,29.95,29.95,2025-07-13 13:00:00,Australia
+INV-1180,CUST-0049,Vertical Ergonomic Mouse,3,45.0,135.0,2025-07-13 13:00:00,Australia
+INV-1180,CUST-0049,USB-C Multiport Hub,2,39.99,79.98,2025-07-13 13:00:00,Australia
+INV-1181,CUST-0067,USB-C Multiport Hub,5,39.99,199.95,2025-06-30 13:00:00,United States
+INV-1181,CUST-0067,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-06-30 13:00:00,United States
+INV-1182,CUST-0018,Vertical Ergonomic Mouse,3,45.0,135.0,2025-03-26 11:00:00,United States
+INV-1183,CUST-0028,Vertical Ergonomic Mouse,1,45.0,45.0,2025-04-06 10:00:00,Germany
+INV-1183,CUST-0028,Smart LED Desk Lamp,2,29.95,59.9,2025-04-06 10:00:00,Germany
+INV-1184,CUST-0054,USB-C Multiport Hub,4,39.99,159.96,2025-02-28 15:00:00,France
+INV-1184,CUST-0054,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-02-28 15:00:00,France
+INV-1184,CUST-0054,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-02-28 15:00:00,France
+INV-1185,CUST-0003,Vertical Ergonomic Mouse,2,45.0,90.0,2025-01-23 10:00:00,Germany
+INV-1185,CUST-0003,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-01-23 10:00:00,Germany
+INV-1185,CUST-0003,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-01-23 10:00:00,Germany
+INV-1186,CUST-0019,Vertical Ergonomic Mouse,4,45.0,180.0,2025-03-27 12:00:00,United Kingdom
+INV-1187,CUST-0077,Smart LED Desk Lamp,3,29.95,89.85,2025-11-23 08:00:00,Japan
+INV-1187,CUST-0077,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-11-23 08:00:00,Japan
+INV-1187,CUST-0077,USB-C Multiport Hub,5,39.99,199.95,2025-11-23 08:00:00,Japan
+INV-1188,CUST-0061,Vertical Ergonomic Mouse,2,45.0,90.0,2025-03-29 11:00:00,United States
+INV-1188,CUST-0061,Vertical Ergonomic Mouse,2,45.0,90.0,2025-03-29 11:00:00,United States
+INV-1189,CUST-0080,Smart LED Desk Lamp,3,29.95,89.85,2025-09-19 12:00:00,Australia
+INV-1190,CUST-0059,USB-C Multiport Hub,4,39.99,159.96,2025-10-30 09:00:00,Japan
+INV-1191,CUST-0017,Vertical Ergonomic Mouse,4,45.0,180.0,2025-01-09 11:00:00,United Kingdom
+INV-1191,CUST-0017,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-01-09 11:00:00,United Kingdom
+INV-1191,CUST-0017,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-01-09 11:00:00,United Kingdom
+INV-1192,CUST-0061,Vertical Ergonomic Mouse,1,45.0,45.0,2025-11-04 08:00:00,Japan
+INV-1192,CUST-0061,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-11-04 08:00:00,Japan
+INV-1192,CUST-0061,Smart LED Desk Lamp,2,29.95,59.9,2025-11-04 08:00:00,Japan
+INV-1193,CUST-0078,Smart LED Desk Lamp,4,29.95,119.8,2025-01-01 20:00:00,Japan
+INV-1193,CUST-0078,Vertical Ergonomic Mouse,4,45.0,180.0,2025-01-01 20:00:00,Japan
+INV-1193,CUST-0078,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-01-01 20:00:00,Japan
+INV-1194,CUST-0068,USB-C Multiport Hub,3,39.99,119.97,2025-04-28 20:00:00,United States
+INV-1194,CUST-0068,Vertical Ergonomic Mouse,5,45.0,225.0,2025-04-28 20:00:00,United States
+INV-1195,CUST-0013,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-03-10 12:00:00,United States
+INV-1195,CUST-0013,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-03-10 12:00:00,United States
+INV-1196,CUST-0070,Smart LED Desk Lamp,1,29.95,29.95,2025-05-12 11:00:00,United States
+INV-1197,CUST-0074,USB-C Multiport Hub,2,39.99,79.98,2025-03-02 16:00:00,Japan
+INV-1198,CUST-0041,USB-C Multiport Hub,5,39.99,199.95,2025-07-05 09:00:00,United States
+INV-1199,CUST-0033,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-10-02 14:00:00,France
+INV-1199,CUST-0033,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-10-02 14:00:00,France
+INV-1199,CUST-0033,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-10-02 14:00:00,France
+INV-1200,CUST-0071,Vertical Ergonomic Mouse,5,45.0,225.0,2025-09-05 10:00:00,Japan
+INV-1200,CUST-0071,USB-C Multiport Hub,3,39.99,119.97,2025-09-05 10:00:00,Japan
+INV-1201,CUST-0040,USB-C Multiport Hub,2,39.99,79.98,2025-06-26 20:00:00,Japan
+INV-1201,CUST-0040,Smart LED Desk Lamp,1,29.95,29.95,2025-06-26 20:00:00,Japan
+INV-1201,CUST-0040,Smart LED Desk Lamp,2,29.95,59.9,2025-06-26 20:00:00,Japan
+INV-1202,CUST-0058,Vertical Ergonomic Mouse,4,45.0,180.0,2025-03-24 09:00:00,Australia
+INV-1203,CUST-0044,Smart LED Desk Lamp,1,29.95,29.95,2025-11-11 19:00:00,Japan
+INV-1203,CUST-0044,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-11-11 19:00:00,Japan
+INV-1203,CUST-0044,Smart LED Desk Lamp,1,29.95,29.95,2025-11-11 19:00:00,Japan
+INV-1204,CUST-0012,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-08-30 17:00:00,Germany
+INV-1204,CUST-0012,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-08-30 17:00:00,Germany
+INV-1205,CUST-0048,USB-C Multiport Hub,4,39.99,159.96,2025-11-08 08:00:00,United Kingdom
+INV-1205,CUST-0048,Vertical Ergonomic Mouse,5,45.0,225.0,2025-11-08 08:00:00,United Kingdom
+INV-1205,CUST-0048,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-11-08 08:00:00,United Kingdom
+INV-1206,CUST-0008,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-11-24 15:00:00,Germany
+INV-1206,CUST-0008,Smart LED Desk Lamp,5,29.95,149.75,2025-11-24 15:00:00,Germany
+INV-1207,CUST-0037,Vertical Ergonomic Mouse,5,45.0,225.0,2025-01-18 20:00:00,Germany
+INV-1207,CUST-0037,Smart LED Desk Lamp,2,29.95,59.9,2025-01-18 20:00:00,Germany
+INV-1207,CUST-0037,Vertical Ergonomic Mouse,2,45.0,90.0,2025-01-18 20:00:00,Germany
+INV-1208,CUST-0005,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-05-03 18:00:00,France
+INV-1209,CUST-0036,USB-C Multiport Hub,5,39.99,199.95,2025-06-30 18:00:00,United States
+INV-1209,CUST-0036,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-06-30 18:00:00,United States
+INV-1210,CUST-0002,Vertical Ergonomic Mouse,3,45.0,135.0,2025-12-27 09:00:00,Australia
+INV-1211,CUST-0072,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-06-28 13:00:00,Japan
+INV-1211,CUST-0072,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-06-28 13:00:00,Japan
+INV-1212,CUST-0052,USB-C Multiport Hub,5,39.99,199.95,2025-01-03 12:00:00,Japan
+INV-1213,CUST-0014,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-02-07 16:00:00,Japan
+INV-1213,CUST-0014,Vertical Ergonomic Mouse,3,45.0,135.0,2025-02-07 16:00:00,Japan
+INV-1214,CUST-0069,USB-C Multiport Hub,5,39.99,199.95,2025-05-09 19:00:00,Japan
+INV-1214,CUST-0069,USB-C Multiport Hub,2,39.99,79.98,2025-05-09 19:00:00,Japan
+INV-1215,CUST-0044,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-12-15 15:00:00,United States
+INV-1215,CUST-0044,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-12-15 15:00:00,United States
+INV-1215,CUST-0044,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-12-15 15:00:00,United States
+INV-1216,CUST-0029,USB-C Multiport Hub,3,39.99,119.97,2025-12-26 11:00:00,Australia
+INV-1216,CUST-0029,Vertical Ergonomic Mouse,5,45.0,225.0,2025-12-26 11:00:00,Australia
+INV-1217,CUST-0002,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-05-15 11:00:00,Australia
+INV-1217,CUST-0002,Smart LED Desk Lamp,3,29.95,89.85,2025-05-15 11:00:00,Australia
+INV-1218,CUST-0010,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-04-02 15:00:00,Japan
+INV-1218,CUST-0010,Vertical Ergonomic Mouse,3,45.0,135.0,2025-04-02 15:00:00,Japan
+INV-1219,CUST-0024,Smart LED Desk Lamp,2,29.95,59.9,2025-12-16 11:00:00,Australia
+INV-1219,CUST-0024,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-12-16 11:00:00,Australia
+INV-1220,CUST-0034,Vertical Ergonomic Mouse,3,45.0,135.0,2025-04-28 11:00:00,Germany
+INV-1221,CUST-0020,Smart LED Desk Lamp,4,29.95,119.8,2025-03-03 09:00:00,United Kingdom
+INV-1221,CUST-0020,Vertical Ergonomic Mouse,1,45.0,45.0,2025-03-03 09:00:00,United Kingdom
+INV-1221,CUST-0020,Vertical Ergonomic Mouse,1,45.0,45.0,2025-03-03 09:00:00,United Kingdom
+INV-1222,CUST-0062,Vertical Ergonomic Mouse,3,45.0,135.0,2025-11-14 13:00:00,France
+INV-1222,CUST-0062,USB-C Multiport Hub,2,39.99,79.98,2025-11-14 13:00:00,France
+INV-1223,CUST-0066,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-07-23 11:00:00,France
+INV-1223,CUST-0066,Vertical Ergonomic Mouse,4,45.0,180.0,2025-07-23 11:00:00,France
+INV-1223,CUST-0066,USB-C Multiport Hub,5,39.99,199.95,2025-07-23 11:00:00,France
+INV-1224,CUST-0005,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-06-27 14:00:00,Japan
+INV-1224,CUST-0005,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-06-27 14:00:00,Japan
+INV-1224,CUST-0005,USB-C Multiport Hub,3,39.99,119.97,2025-06-27 14:00:00,Japan
+INV-1225,CUST-0002,Vertical Ergonomic Mouse,1,45.0,45.0,2025-12-12 11:00:00,United Kingdom
+INV-1225,CUST-0002,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-12-12 11:00:00,United Kingdom
+INV-1226,CUST-0079,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-04-06 16:00:00,France
+INV-1226,CUST-0079,USB-C Multiport Hub,5,39.99,199.95,2025-04-06 16:00:00,France
+INV-1227,CUST-0044,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-04-05 15:00:00,France
+INV-1227,CUST-0044,Smart LED Desk Lamp,3,29.95,89.85,2025-04-05 15:00:00,France
+INV-1228,CUST-0047,Vertical Ergonomic Mouse,2,45.0,90.0,2025-05-24 15:00:00,United States
+INV-1229,CUST-0074,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-04-28 09:00:00,Australia
+INV-1229,CUST-0074,Vertical Ergonomic Mouse,4,45.0,180.0,2025-04-28 09:00:00,Australia
+INV-1229,CUST-0074,USB-C Multiport Hub,2,39.99,79.98,2025-04-28 09:00:00,Australia
+INV-1230,CUST-0019,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-03-18 15:00:00,Australia
+INV-1231,CUST-0064,Smart LED Desk Lamp,3,29.95,89.85,2025-11-19 16:00:00,Germany
+INV-1231,CUST-0064,USB-C Multiport Hub,3,39.99,119.97,2025-11-19 16:00:00,Germany
+INV-1231,CUST-0064,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-11-19 16:00:00,Germany
+INV-1232,CUST-0073,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-07-23 09:00:00,United Kingdom
+INV-1232,CUST-0073,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-07-23 09:00:00,United Kingdom
+INV-1232,CUST-0073,USB-C Multiport Hub,1,39.99,39.99,2025-07-23 09:00:00,United Kingdom
+INV-1233,CUST-0058,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-06-21 12:00:00,Australia
+INV-1233,CUST-0058,Vertical Ergonomic Mouse,3,45.0,135.0,2025-06-21 12:00:00,Australia
+INV-1234,CUST-0045,Smart LED Desk Lamp,5,29.95,149.75,2025-07-30 09:00:00,United Kingdom
+INV-1234,CUST-0045,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-07-30 09:00:00,United Kingdom
+INV-1235,CUST-0074,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-11-29 16:00:00,Australia
+INV-1236,CUST-0042,USB-C Multiport Hub,1,39.99,39.99,2025-09-19 15:00:00,Australia
+INV-1236,CUST-0042,USB-C Multiport Hub,5,39.99,199.95,2025-09-19 15:00:00,Australia
+INV-1236,CUST-0042,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-09-19 15:00:00,Australia
+INV-1237,CUST-0019,USB-C Multiport Hub,5,39.99,199.95,2025-11-24 20:00:00,Germany
+INV-1237,CUST-0019,Vertical Ergonomic Mouse,4,45.0,180.0,2025-11-24 20:00:00,Germany
+INV-1238,CUST-0010,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-03-24 13:00:00,United Kingdom
+INV-1239,CUST-0038,USB-C Multiport Hub,3,39.99,119.97,2025-05-17 17:00:00,Australia
+INV-1239,CUST-0038,USB-C Multiport Hub,3,39.99,119.97,2025-05-17 17:00:00,Australia
+INV-1239,CUST-0038,Smart LED Desk Lamp,5,29.95,149.75,2025-05-17 17:00:00,Australia
+INV-1240,CUST-0067,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-07-31 10:00:00,United States
+INV-1241,CUST-0031,Smart LED Desk Lamp,1,29.95,29.95,2025-05-09 19:00:00,Australia
+INV-1241,CUST-0031,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-05-09 19:00:00,Australia
+INV-1241,CUST-0031,USB-C Multiport Hub,1,39.99,39.99,2025-05-09 19:00:00,Australia
+INV-1242,CUST-0013,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-08-31 16:00:00,United Kingdom
+INV-1243,CUST-0068,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-02-23 12:00:00,United Kingdom
+INV-1243,CUST-0068,Smart LED Desk Lamp,4,29.95,119.8,2025-02-23 12:00:00,United Kingdom
+INV-1243,CUST-0068,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-02-23 12:00:00,United Kingdom
+INV-1244,CUST-0032,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-05-26 15:00:00,Australia
+INV-1244,CUST-0032,Vertical Ergonomic Mouse,2,45.0,90.0,2025-05-26 15:00:00,Australia
+INV-1244,CUST-0032,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-05-26 15:00:00,Australia
+INV-1245,CUST-0046,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-09-01 15:00:00,France
+INV-1245,CUST-0046,USB-C Multiport Hub,2,39.99,79.98,2025-09-01 15:00:00,France
+INV-1245,CUST-0046,Smart LED Desk Lamp,5,29.95,149.75,2025-09-01 15:00:00,France
+INV-1246,CUST-0023,Smart LED Desk Lamp,5,29.95,149.75,2025-11-02 15:00:00,Japan
+INV-1246,CUST-0023,USB-C Multiport Hub,5,39.99,199.95,2025-11-02 15:00:00,Japan
+INV-1246,CUST-0023,Smart LED Desk Lamp,5,29.95,149.75,2025-11-02 15:00:00,Japan
+INV-1247,CUST-0040,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-09-04 16:00:00,France
+INV-1248,CUST-0040,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-07-31 12:00:00,France
+INV-1249,CUST-0001,USB-C Multiport Hub,5,39.99,199.95,2025-03-11 13:00:00,Japan
+INV-1249,CUST-0001,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-03-11 13:00:00,Japan
+INV-1250,CUST-0062,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-01-05 20:00:00,France
+INV-1250,CUST-0062,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-01-05 20:00:00,France
+INV-1251,CUST-0071,USB-C Multiport Hub,4,39.99,159.96,2025-04-07 14:00:00,France
+INV-1251,CUST-0071,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-04-07 14:00:00,France
+INV-1251,CUST-0071,Smart LED Desk Lamp,4,29.95,119.8,2025-04-07 14:00:00,France
+INV-1252,CUST-0049,Smart LED Desk Lamp,2,29.95,59.9,2025-05-15 09:00:00,Germany
+INV-1252,CUST-0049,Vertical Ergonomic Mouse,5,45.0,225.0,2025-05-15 09:00:00,Germany
+INV-1253,CUST-0035,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-11-29 19:00:00,France
+INV-1253,CUST-0035,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-11-29 19:00:00,France
+INV-1253,CUST-0035,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-11-29 19:00:00,France
+INV-1254,CUST-0038,USB-C Multiport Hub,3,39.99,119.97,2025-11-23 15:00:00,United Kingdom
+INV-1254,CUST-0038,Smart LED Desk Lamp,5,29.95,149.75,2025-11-23 15:00:00,United Kingdom
+INV-1254,CUST-0038,USB-C Multiport Hub,2,39.99,79.98,2025-11-23 15:00:00,United Kingdom
+INV-1255,CUST-0042,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-03-19 08:00:00,United Kingdom
+INV-1255,CUST-0042,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-03-19 08:00:00,United Kingdom
+INV-1255,CUST-0042,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-03-19 08:00:00,United Kingdom
+INV-1256,CUST-0057,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-01-05 11:00:00,Australia
+INV-1257,CUST-0064,USB-C Multiport Hub,3,39.99,119.97,2025-06-25 14:00:00,Germany
+INV-1257,CUST-0064,USB-C Multiport Hub,1,39.99,39.99,2025-06-25 14:00:00,Germany
+INV-1258,CUST-0043,USB-C Multiport Hub,1,39.99,39.99,2025-03-16 08:00:00,United Kingdom
+INV-1258,CUST-0043,Vertical Ergonomic Mouse,4,45.0,180.0,2025-03-16 08:00:00,United Kingdom
+INV-1259,CUST-0024,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-05-09 14:00:00,Germany
+INV-1260,CUST-0050,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-05-07 19:00:00,United States
+INV-1261,CUST-0013,USB-C Multiport Hub,3,39.99,119.97,2025-12-07 11:00:00,Japan
+INV-1261,CUST-0013,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-12-07 11:00:00,Japan
+INV-1262,CUST-0006,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-10-09 16:00:00,Australia
+INV-1263,CUST-0039,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-07-04 08:00:00,Germany
+INV-1263,CUST-0039,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-07-04 08:00:00,Germany
+INV-1263,CUST-0039,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-07-04 08:00:00,Germany
+INV-1264,CUST-0022,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-10-27 09:00:00,France
+INV-1264,CUST-0022,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-10-27 09:00:00,France
+INV-1265,CUST-0061,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-11-02 10:00:00,Australia
+INV-1265,CUST-0061,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-11-02 10:00:00,Australia
+INV-1266,CUST-0012,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-11-13 13:00:00,Australia
+INV-1266,CUST-0012,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-11-13 13:00:00,Australia
+INV-1266,CUST-0012,Smart LED Desk Lamp,5,29.95,149.75,2025-11-13 13:00:00,Australia
+INV-1267,CUST-0014,Vertical Ergonomic Mouse,3,45.0,135.0,2025-09-07 11:00:00,Germany
+INV-1267,CUST-0014,USB-C Multiport Hub,2,39.99,79.98,2025-09-07 11:00:00,Germany
+INV-1268,CUST-0003,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-07-13 13:00:00,Australia
+INV-1268,CUST-0003,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-07-13 13:00:00,Australia
+INV-1268,CUST-0003,Smart LED Desk Lamp,4,29.95,119.8,2025-07-13 13:00:00,Australia
+INV-1269,CUST-0072,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-10-05 19:00:00,France
+INV-1269,CUST-0072,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-10-05 19:00:00,France
+INV-1270,CUST-0045,Vertical Ergonomic Mouse,2,45.0,90.0,2025-08-28 12:00:00,France
+INV-1270,CUST-0045,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-08-28 12:00:00,France
+INV-1270,CUST-0045,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-08-28 12:00:00,France
+INV-1271,CUST-0038,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-10-05 13:00:00,France
+INV-1271,CUST-0038,USB-C Multiport Hub,2,39.99,79.98,2025-10-05 13:00:00,France
+INV-1272,CUST-0003,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-07-06 20:00:00,Japan
+INV-1272,CUST-0003,Smart LED Desk Lamp,1,29.95,29.95,2025-07-06 20:00:00,Japan
+INV-1272,CUST-0003,Smart LED Desk Lamp,5,29.95,149.75,2025-07-06 20:00:00,Japan
+INV-1273,CUST-0050,Vertical Ergonomic Mouse,2,45.0,90.0,2025-09-26 18:00:00,Germany
+INV-1273,CUST-0050,Vertical Ergonomic Mouse,3,45.0,135.0,2025-09-26 18:00:00,Germany
+INV-1274,CUST-0042,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-11-25 13:00:00,United States
+INV-1275,CUST-0009,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-03-08 10:00:00,United Kingdom
+INV-1276,CUST-0063,Smart LED Desk Lamp,4,29.95,119.8,2025-02-20 08:00:00,Germany
+INV-1276,CUST-0063,Smart LED Desk Lamp,4,29.95,119.8,2025-02-20 08:00:00,Germany
+INV-1276,CUST-0063,Vertical Ergonomic Mouse,5,45.0,225.0,2025-02-20 08:00:00,Germany
+INV-1277,CUST-0076,Vertical Ergonomic Mouse,1,45.0,45.0,2025-01-26 13:00:00,France
+INV-1278,CUST-0002,USB-C Multiport Hub,1,39.99,39.99,2025-12-02 15:00:00,Germany
+INV-1279,CUST-0047,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-08-01 13:00:00,Japan
+INV-1279,CUST-0047,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-08-01 13:00:00,Japan
+INV-1279,CUST-0047,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-08-01 13:00:00,Japan
+INV-1280,CUST-0039,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-04-21 16:00:00,United Kingdom
+INV-1281,CUST-0069,Smart LED Desk Lamp,2,29.95,59.9,2025-04-08 11:00:00,United States
+INV-1281,CUST-0069,Vertical Ergonomic Mouse,2,45.0,90.0,2025-04-08 11:00:00,United States
+INV-1281,CUST-0069,Vertical Ergonomic Mouse,5,45.0,225.0,2025-04-08 11:00:00,United States
+INV-1282,CUST-0054,Vertical Ergonomic Mouse,3,45.0,135.0,2025-02-24 20:00:00,Australia
+INV-1282,CUST-0054,Smart LED Desk Lamp,4,29.95,119.8,2025-02-24 20:00:00,Australia
+INV-1282,CUST-0054,Smart LED Desk Lamp,4,29.95,119.8,2025-02-24 20:00:00,Australia
+INV-1283,CUST-0014,Vertical Ergonomic Mouse,3,45.0,135.0,2025-04-03 16:00:00,Germany
+INV-1283,CUST-0014,Smart LED Desk Lamp,2,29.95,59.9,2025-04-03 16:00:00,Germany
+INV-1284,CUST-0069,Vertical Ergonomic Mouse,3,45.0,135.0,2025-08-15 13:00:00,Japan
+INV-1284,CUST-0069,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-08-15 13:00:00,Japan
+INV-1285,CUST-0056,Vertical Ergonomic Mouse,5,45.0,225.0,2025-06-15 17:00:00,Australia
+INV-1286,CUST-0028,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-10-09 19:00:00,United States
+INV-1286,CUST-0028,USB-C Multiport Hub,4,39.99,159.96,2025-10-09 19:00:00,United States
+INV-1287,CUST-0001,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-01-18 12:00:00,Australia
+INV-1287,CUST-0001,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-01-18 12:00:00,Australia
+INV-1287,CUST-0001,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-01-18 12:00:00,Australia
+INV-1288,CUST-0029,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-06-11 08:00:00,Germany
+INV-1288,CUST-0029,Vertical Ergonomic Mouse,5,45.0,225.0,2025-06-11 08:00:00,Germany
+INV-1288,CUST-0029,Vertical Ergonomic Mouse,5,45.0,225.0,2025-06-11 08:00:00,Germany
+INV-1289,CUST-0020,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-01-20 15:00:00,United Kingdom
+INV-1289,CUST-0020,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-01-20 15:00:00,United Kingdom
+INV-1290,CUST-0075,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-04-30 12:00:00,Germany
+INV-1290,CUST-0075,USB-C Multiport Hub,5,39.99,199.95,2025-04-30 12:00:00,Germany
+INV-1291,CUST-0028,USB-C Multiport Hub,2,39.99,79.98,2025-02-09 19:00:00,Australia
+INV-1291,CUST-0028,USB-C Multiport Hub,5,39.99,199.95,2025-02-09 19:00:00,Australia
+INV-1292,CUST-0013,Smart LED Desk Lamp,5,29.95,149.75,2025-11-25 12:00:00,Japan
+INV-1293,CUST-0049,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-01-29 20:00:00,United Kingdom
+INV-1293,CUST-0049,USB-C Multiport Hub,1,39.99,39.99,2025-01-29 20:00:00,United Kingdom
+INV-1294,CUST-0030,Smart LED Desk Lamp,4,29.95,119.8,2025-12-01 17:00:00,Australia
+INV-1295,CUST-0007,Vertical Ergonomic Mouse,5,45.0,225.0,2025-09-26 08:00:00,France
+INV-1295,CUST-0007,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-09-26 08:00:00,France
+INV-1296,CUST-0065,Smart LED Desk Lamp,4,29.95,119.8,2025-04-24 10:00:00,Australia
+INV-1297,CUST-0058,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-10-22 16:00:00,Japan
+INV-1298,CUST-0038,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-03-17 10:00:00,United States
+INV-1298,CUST-0038,Vertical Ergonomic Mouse,1,45.0,45.0,2025-03-17 10:00:00,United States
+INV-1299,CUST-0071,Vertical Ergonomic Mouse,4,45.0,180.0,2025-05-15 09:00:00,United States
+INV-1299,CUST-0071,Smart LED Desk Lamp,2,29.95,59.9,2025-05-15 09:00:00,United States
+INV-1300,CUST-0018,USB-C Multiport Hub,5,39.99,199.95,2025-10-14 11:00:00,United States
+INV-1300,CUST-0018,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-10-14 11:00:00,United States
+INV-1301,CUST-0079,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-09-26 11:00:00,Australia
+INV-1302,CUST-0056,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-12-17 17:00:00,France
+INV-1303,CUST-0055,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-06-28 11:00:00,France
+INV-1303,CUST-0055,Smart LED Desk Lamp,1,29.95,29.95,2025-06-28 11:00:00,France
+INV-1304,CUST-0040,Vertical Ergonomic Mouse,2,45.0,90.0,2025-06-29 17:00:00,Germany
+INV-1304,CUST-0040,USB-C Multiport Hub,1,39.99,39.99,2025-06-29 17:00:00,Germany
+INV-1305,CUST-0030,Smart LED Desk Lamp,1,29.95,29.95,2025-12-17 13:00:00,Germany
+INV-1306,CUST-0015,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-01-28 11:00:00,Australia
+INV-1306,CUST-0015,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-01-28 11:00:00,Australia
+INV-1306,CUST-0015,Smart LED Desk Lamp,1,29.95,29.95,2025-01-28 11:00:00,Australia
+INV-1307,CUST-0040,Ergonomic Mechanical Keyboard,5,89.5,447.5,2025-08-30 08:00:00,United States
+INV-1307,CUST-0040,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-08-30 08:00:00,United States
+INV-1308,CUST-0070,Vertical Ergonomic Mouse,2,45.0,90.0,2025-05-13 16:00:00,Japan
+INV-1308,CUST-0070,Smart LED Desk Lamp,1,29.95,29.95,2025-05-13 16:00:00,Japan
+INV-1309,CUST-0049,Ultra HD 27-inch Monitor,2,299.0,598.0,2025-12-06 16:00:00,Japan
+INV-1310,CUST-0008,Vertical Ergonomic Mouse,3,45.0,135.0,2025-04-13 20:00:00,France
+INV-1310,CUST-0008,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-04-13 20:00:00,France
+INV-1310,CUST-0008,Smart LED Desk Lamp,1,29.95,29.95,2025-04-13 20:00:00,France
+INV-1311,CUST-0009,Smart LED Desk Lamp,3,29.95,89.85,2025-12-05 12:00:00,United States
+INV-1311,CUST-0009,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-12-05 12:00:00,United States
+INV-1311,CUST-0009,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-12-05 12:00:00,United States
+INV-1312,CUST-0030,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-09-18 19:00:00,United States
+INV-1313,CUST-0077,Vertical Ergonomic Mouse,4,45.0,180.0,2025-02-15 10:00:00,Japan
+INV-1314,CUST-0072,Vertical Ergonomic Mouse,3,45.0,135.0,2025-01-12 08:00:00,Australia
+INV-1315,CUST-0043,Wireless Noise-Cancelling Headphones,3,149.99,449.97,2025-07-21 19:00:00,United States
+INV-1316,CUST-0046,Vertical Ergonomic Mouse,3,45.0,135.0,2025-11-17 12:00:00,France
+INV-1317,CUST-0008,Vertical Ergonomic Mouse,3,45.0,135.0,2025-05-12 14:00:00,Australia
+INV-1318,CUST-0029,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-06-24 14:00:00,Germany
+INV-1318,CUST-0029,Smart LED Desk Lamp,4,29.95,119.8,2025-06-24 14:00:00,Germany
+INV-1318,CUST-0029,Vertical Ergonomic Mouse,5,45.0,225.0,2025-06-24 14:00:00,Germany
+INV-1319,CUST-0030,USB-C Multiport Hub,3,39.99,119.97,2025-05-04 17:00:00,United States
+INV-1320,CUST-0078,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-08-18 16:00:00,France
+INV-1321,CUST-0075,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-12-17 20:00:00,Japan
+INV-1322,CUST-0068,Smart LED Desk Lamp,5,29.95,149.75,2025-08-09 20:00:00,Germany
+INV-1323,CUST-0021,Smart LED Desk Lamp,1,29.95,29.95,2025-02-04 16:00:00,France
+INV-1323,CUST-0021,Ergonomic Mechanical Keyboard,3,89.5,268.5,2025-02-04 16:00:00,France
+INV-1323,CUST-0021,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-02-04 16:00:00,France
+INV-1324,CUST-0041,Smart LED Desk Lamp,3,29.95,89.85,2025-07-30 12:00:00,United States
+INV-1324,CUST-0041,Ergonomic Mechanical Keyboard,2,89.5,179.0,2025-07-30 12:00:00,United States
+INV-1325,CUST-0014,Vertical Ergonomic Mouse,3,45.0,135.0,2025-04-05 08:00:00,Germany
+INV-1325,CUST-0014,Vertical Ergonomic Mouse,5,45.0,225.0,2025-04-05 08:00:00,Germany
+INV-1325,CUST-0014,Vertical Ergonomic Mouse,2,45.0,90.0,2025-04-05 08:00:00,Germany
+INV-1326,CUST-0077,Ultra HD 27-inch Monitor,1,299.0,299.0,2025-04-29 18:00:00,Germany
+INV-1327,CUST-0062,Smart LED Desk Lamp,3,29.95,89.85,2025-09-15 17:00:00,Germany
+INV-1327,CUST-0062,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-09-15 17:00:00,Germany
+INV-1328,CUST-0063,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-03-12 10:00:00,United States
+INV-1329,CUST-0053,Smart LED Desk Lamp,2,29.95,59.9,2025-05-19 14:00:00,United Kingdom
+INV-1330,CUST-0027,USB-C Multiport Hub,3,39.99,119.97,2025-04-01 15:00:00,United Kingdom
+INV-1330,CUST-0027,USB-C Multiport Hub,2,39.99,79.98,2025-04-01 15:00:00,United Kingdom
+INV-1330,CUST-0027,USB-C Multiport Hub,4,39.99,159.96,2025-04-01 15:00:00,United Kingdom
+INV-1331,CUST-0006,USB-C Multiport Hub,5,39.99,199.95,2025-07-14 19:00:00,Japan
+INV-1331,CUST-0006,Smart LED Desk Lamp,5,29.95,149.75,2025-07-14 19:00:00,Japan
+INV-1332,CUST-0077,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-09-26 18:00:00,Japan
+INV-1332,CUST-0077,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-09-26 18:00:00,Japan
+INV-1332,CUST-0077,USB-C Multiport Hub,1,39.99,39.99,2025-09-26 18:00:00,Japan
+INV-1333,CUST-0032,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-10-03 14:00:00,Japan
+INV-1333,CUST-0032,USB-C Multiport Hub,5,39.99,199.95,2025-10-03 14:00:00,Japan
+INV-1333,CUST-0032,Smart LED Desk Lamp,1,29.95,29.95,2025-10-03 14:00:00,Japan
+INV-1334,CUST-0025,Ultra HD 27-inch Monitor,4,299.0,1196.0,2025-08-14 14:00:00,France
+INV-1334,CUST-0025,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-08-14 14:00:00,France
+INV-1335,CUST-0038,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-01-28 19:00:00,Japan
+INV-1335,CUST-0038,Smart LED Desk Lamp,4,29.95,119.8,2025-01-28 19:00:00,Japan
+INV-1335,CUST-0038,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-01-28 19:00:00,Japan
+INV-1336,CUST-0015,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-10-27 19:00:00,Germany
+INV-1336,CUST-0015,USB-C Multiport Hub,3,39.99,119.97,2025-10-27 19:00:00,Germany
+INV-1336,CUST-0015,USB-C Multiport Hub,1,39.99,39.99,2025-10-27 19:00:00,Germany
+INV-1337,CUST-0023,USB-C Multiport Hub,1,39.99,39.99,2025-10-30 19:00:00,United States
+INV-1338,CUST-0033,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-12-21 18:00:00,France
+INV-1338,CUST-0033,Wireless Noise-Cancelling Headphones,1,149.99,149.99,2025-12-21 18:00:00,France
+INV-1338,CUST-0033,Smart LED Desk Lamp,4,29.95,119.8,2025-12-21 18:00:00,France
+INV-1339,CUST-0047,Smart LED Desk Lamp,5,29.95,149.75,2025-09-26 19:00:00,United Kingdom
+INV-1339,CUST-0047,Vertical Ergonomic Mouse,2,45.0,90.0,2025-09-26 19:00:00,United Kingdom
+INV-1340,CUST-0049,Ultra HD 27-inch Monitor,5,299.0,1495.0,2025-07-14 08:00:00,Japan
+INV-1341,CUST-0020,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-03-16 10:00:00,Germany
+INV-1341,CUST-0020,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-03-16 10:00:00,Germany
+INV-1341,CUST-0020,Smart LED Desk Lamp,4,29.95,119.8,2025-03-16 10:00:00,Germany
+INV-1342,CUST-0037,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-04-03 09:00:00,Australia
+INV-1343,CUST-0080,USB-C Multiport Hub,5,39.99,199.95,2025-01-07 15:00:00,France
+INV-1343,CUST-0080,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-01-07 15:00:00,France
+INV-1344,CUST-0064,USB-C Multiport Hub,4,39.99,159.96,2025-04-22 17:00:00,Germany
+INV-1344,CUST-0064,USB-C Multiport Hub,4,39.99,159.96,2025-04-22 17:00:00,Germany
+INV-1344,CUST-0064,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-04-22 17:00:00,Germany
+INV-1345,CUST-0077,Vertical Ergonomic Mouse,5,45.0,225.0,2025-05-06 16:00:00,United Kingdom
+INV-1345,CUST-0077,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-05-06 16:00:00,United Kingdom
+INV-1346,CUST-0024,Wireless Noise-Cancelling Headphones,2,149.99,299.98,2025-01-29 18:00:00,Germany
+INV-1346,CUST-0024,Wireless Noise-Cancelling Headphones,5,149.99,749.95,2025-01-29 18:00:00,Germany
+INV-1347,CUST-0078,Wireless Noise-Cancelling Headphones,4,149.99,599.96,2025-06-19 09:00:00,France
+INV-1348,CUST-0023,Smart LED Desk Lamp,5,29.95,149.75,2025-12-11 12:00:00,Germany
+INV-1348,CUST-0023,Vertical Ergonomic Mouse,5,45.0,225.0,2025-12-11 12:00:00,Germany
+INV-1348,CUST-0023,Ergonomic Mechanical Keyboard,4,89.5,358.0,2025-12-11 12:00:00,Germany
+INV-1349,CUST-0075,Ultra HD 27-inch Monitor,3,299.0,897.0,2025-01-19 09:00:00,France
+INV-1349,CUST-0075,USB-C Multiport Hub,1,39.99,39.99,2025-01-19 09:00:00,France
+INV-1350,CUST-0055,Ergonomic Mechanical Keyboard,1,89.5,89.5,2025-02-03 12:00:00,Japan
+INV-1350,CUST-0055,Smart LED Desk Lamp,3,29.95,89.85,2025-02-03 12:00:00,Japan

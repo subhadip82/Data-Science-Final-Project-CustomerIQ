@@ -1,0 +1,16 @@
+review_id,customer_name,product_category,rating,review_date,review_text,sentiment
+REV001,Alice Johnson,Electronics,5,2026-01-15,"Absolutely outstanding noise cancelling headphones. Battery life exceeded expectations and audio clarity is top notch.",Positive
+REV002,Bob Smith,Accessories,2,2026-01-18,"The charging cable frayed within three days of light usage. Very disappointed with the build quality.",Negative
+REV003,Carol Davis,Home,4,2026-01-20,"Fast delivery and stylish modern design. Setup was slightly tricky but works reliably now.",Positive
+REV004,David Wilson,Electronics,1,2026-01-22,"Device stopped syncing after the latest firmware update. Customer support has not responded for a week.",Negative
+REV005,Emma Brown,Fitness,5,2026-01-25,"Best smart fitness tracker I have owned. Heart rate tracking is remarkably accurate.",Positive
+REV006,Frank Miller,Office,3,2026-01-28,"Decent ergonomic chair for the price. Lumbar support is acceptable but armrests feel a bit stiff.",Neutral
+REV007,Grace Lee,Electronics,4,2026-02-02,"Great 4K monitor with vibrant colors. Built-in speakers could be louder but video quality is superb.",Positive
+REV008,Henry Taylor,Accessories,1,2026-02-05,"Received defective adapter out of the box. Requesting an immediate refund.",Negative
+REV009,Ivy Martinez,Home,5,2026-02-10,"Remarkable smart air purifier. Air quality index improved dramatically within hours of turning it on.",Positive
+REV010,Jack Anderson,Fitness,4,2026-02-14,"Solid stainless steel water bottle. Keeps liquids ice cold throughout full 10-mile trail runs.",Positive
+REV011,Karen Thomas,Office,2,2026-02-18,"Desk lamp flickers periodically when plugged into USB-C hub. Expected better quality.",Negative
+REV012,Leo Jackson,Electronics,5,2026-02-21,"Incredible wireless mechanical keyboard. Typing feedback is satisfying and tactile response is superb.",Positive
+REV013,Mia White,Accessories,3,2026-02-24,"Laptop sleeve is functional and padded well, though the zipper gets slightly stuck around corners.",Neutral
+REV014,Noah Harris,Fitness,5,2026-02-27,"Resistance bands set is versatile, durable, and comes with a very helpful instructional workout guide.",Positive
+REV015,Olivia Martin,Home,4,2026-03-02,"Robot vacuum cleans hardwood floors thoroughly and navigates under couches effortlessly.",Positive

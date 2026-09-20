@@ -1,0 +1,251 @@
+employee_id,department,job_role,monthly_income,years_at_company,performance_rating,overtime,attrition
+EMP-0001,Marketing,Lead,9096,8,3,No,No
+EMP-0002,Engineering,Lead,9326,7,2,No,No
+EMP-0003,Operations,Director,5019,2,3,No,Yes
+EMP-0004,Operations,Manager,4549,2,3,Yes,Yes
+EMP-0005,Marketing,Senior,7404,5,5,Yes,No
+EMP-0006,Engineering,Lead,11366,11,3,Yes,No
+EMP-0007,Sales,Senior,6679,4,3,Yes,No
+EMP-0008,Finance,Director,5612,2,2,No,No
+EMP-0009,Human Resources,Senior,13859,15,3,Yes,No
+EMP-0010,Sales,Manager,13729,14,2,No,No
+EMP-0011,Human Resources,Director,7498,6,3,No,No
+EMP-0012,Human Resources,Senior,6073,4,3,No,No
+EMP-0013,Finance,Director,10218,8,4,Yes,No
+EMP-0014,Marketing,Associate,10927,14,5,No,No
+EMP-0015,Operations,Director,12547,14,2,No,No
+EMP-0016,Sales,Manager,4956,2,2,Yes,No
+EMP-0017,Engineering,Manager,11825,14,2,No,No
+EMP-0018,Engineering,Lead,8718,9,3,Yes,No
+EMP-0019,Operations,Lead,9312,6,3,Yes,No
+EMP-0020,Sales,Manager,5174,1,4,Yes,No
+EMP-0021,Sales,Director,9987,15,5,No,No
+EMP-0022,Sales,Manager,4896,2,5,No,Yes
+EMP-0023,Engineering,Director,5698,2,4,Yes,No
+EMP-0024,Finance,Lead,9347,12,3,No,No
+EMP-0025,Marketing,Associate,5168,3,4,Yes,No
+EMP-0026,Human Resources,Lead,8332,7,3,Yes,No
+EMP-0027,Operations,Associate,7982,6,4,No,No
+EMP-0028,Operations,Senior,5345,3,5,No,No
+EMP-0029,Sales,Associate,10461,12,5,No,No
+EMP-0030,Engineering,Lead,3604,1,3,No,Yes
+EMP-0031,Operations,Senior,12147,14,3,No,No
+EMP-0032,Marketing,Lead,14704,14,2,No,No
+EMP-0033,Human Resources,Lead,9777,7,3,No,No
+EMP-0034,Finance,Lead,12036,12,2,No,No
+EMP-0035,Marketing,Lead,6134,2,2,Yes,Yes
+EMP-0036,Finance,Manager,7599,6,3,No,No
+EMP-0037,Marketing,Director,7926,6,4,No,No
+EMP-0038,Engineering,Manager,13607,11,3,Yes,No
+EMP-0039,Engineering,Senior,4672,1,2,Yes,No
+EMP-0040,Finance,Associate,12279,13,4,Yes,No
+EMP-0041,Human Resources,Associate,10121,11,4,Yes,No
+EMP-0042,Marketing,Senior,8549,9,2,Yes,No
+EMP-0043,Finance,Associate,9728,12,3,No,No
+EMP-0044,Marketing,Manager,11934,12,3,Yes,No
+EMP-0045,Operations,Manager,6127,3,2,No,No
+EMP-0046,Finance,Lead,9058,11,3,Yes,No
+EMP-0047,Sales,Lead,12606,12,4,Yes,No
+EMP-0048,Human Resources,Associate,6172,2,3,No,Yes
+EMP-0049,Finance,Associate,9875,8,2,No,No
+EMP-0050,Finance,Manager,10036,7,4,Yes,No
+EMP-0051,Human Resources,Manager,6651,3,5,No,No
+EMP-0052,Operations,Director,6814,3,3,Yes,No
+EMP-0053,Engineering,Director,8944,7,3,No,No
+EMP-0054,Sales,Lead,6263,3,4,No,No
+EMP-0055,Finance,Lead,9434,14,3,No,No
+EMP-0056,Sales,Director,10139,10,4,Yes,No
+EMP-0057,Finance,Lead,6431,3,4,Yes,No
+EMP-0058,Operations,Director,13599,14,3,Yes,No
+EMP-0059,Engineering,Manager,12411,13,5,No,No
+EMP-0060,Operations,Manager,12575,11,3,No,No
+EMP-0061,Human Resources,Senior,4667,2,3,Yes,No
+EMP-0062,Marketing,Manager,8106,6,3,No,No
+EMP-0063,Human Resources,Associate,9260,9,3,No,No
+EMP-0064,Human Resources,Director,4926,4,4,Yes,No
+EMP-0065,Finance,Lead,15279,14,3,Yes,No
+EMP-0066,Marketing,Manager,10320,8,2,Yes,No
+EMP-0067,Sales,Director,9148,7,3,Yes,No
+EMP-0068,Operations,Manager,4707,1,3,Yes,No
+EMP-0069,Marketing,Lead,9469,14,4,No,No
+EMP-0070,Finance,Lead,4700,1,2,No,Yes
+EMP-0071,Finance,Director,9320,9,2,Yes,No
+EMP-0072,Marketing,Senior,5704,2,3,No,Yes
+EMP-0073,Operations,Lead,6822,9,4,No,No
+EMP-0074,Marketing,Director,5958,3,3,Yes,No
+EMP-0075,Marketing,Director,10052,7,3,No,No
+EMP-0076,Engineering,Lead,11451,12,3,Yes,No
+EMP-0077,Operations,Associate,9027,7,4,No,No
+EMP-0078,Finance,Director,8499,5,3,Yes,No
+EMP-0079,Operations,Director,9970,10,4,Yes,No
+EMP-0080,Operations,Associate,12475,14,3,Yes,No
+EMP-0081,Operations,Senior,7506,8,4,No,No
+EMP-0082,Operations,Senior,14805,14,4,Yes,No
+EMP-0083,Finance,Manager,9094,9,3,Yes,No
+EMP-0084,Marketing,Lead,9803,8,4,No,No
+EMP-0085,Marketing,Senior,6689,4,3,No,No
+EMP-0086,Marketing,Manager,10204,12,3,No,No
+EMP-0087,Human Resources,Manager,6596,5,3,Yes,No
+EMP-0088,Engineering,Lead,6994,5,4,No,No
+EMP-0089,Finance,Lead,10503,12,4,No,No
+EMP-0090,Sales,Senior,5812,3,2,Yes,No
+EMP-0091,Marketing,Manager,8624,11,2,Yes,No
+EMP-0092,Operations,Manager,5741,1,4,Yes,Yes
+EMP-0093,Operations,Associate,13854,13,2,Yes,No
+EMP-0094,Engineering,Senior,10959,9,4,Yes,No
+EMP-0095,Human Resources,Manager,16512,15,3,No,No
+EMP-0096,Finance,Associate,9821,15,3,No,No
+EMP-0097,Human Resources,Senior,10451,8,4,No,No
+EMP-0098,Sales,Manager,5610,5,5,No,No
+EMP-0099,Marketing,Director,10166,12,5,Yes,No
+EMP-0100,Human Resources,Manager,6210,3,4,No,No
+EMP-0101,Sales,Associate,4311,2,3,No,No
+EMP-0102,Marketing,Lead,5848,4,4,Yes,No
+EMP-0103,Engineering,Associate,7692,5,4,No,No
+EMP-0104,Operations,Lead,5691,3,5,Yes,No
+EMP-0105,Finance,Senior,12021,11,3,Yes,No
+EMP-0106,Finance,Lead,8185,8,4,No,No
+EMP-0107,Sales,Senior,12323,13,5,Yes,No
+EMP-0108,Engineering,Director,9615,9,2,Yes,No
+EMP-0109,Finance,Director,12677,14,3,Yes,No
+EMP-0110,Operations,Senior,8334,6,5,No,No
+EMP-0111,Sales,Director,5410,2,4,No,Yes
+EMP-0112,Marketing,Associate,8155,10,4,No,No
+EMP-0113,Engineering,Associate,9052,14,4,No,No
+EMP-0114,Engineering,Manager,10094,12,2,No,No
+EMP-0115,Operations,Manager,6574,7,3,No,No
+EMP-0116,Human Resources,Associate,10796,8,5,Yes,No
+EMP-0117,Finance,Manager,11422,11,4,Yes,No
+EMP-0118,Engineering,Lead,14167,12,4,No,No
+EMP-0119,Human Resources,Lead,8424,9,3,No,No
+EMP-0120,Engineering,Associate,7549,4,5,No,No
+EMP-0121,Engineering,Senior,11831,10,3,Yes,No
+EMP-0122,Engineering,Senior,5168,2,5,Yes,No
+EMP-0123,Engineering,Senior,8108,7,4,No,No
+EMP-0124,Marketing,Director,7368,4,4,No,No
+EMP-0125,Operations,Director,5369,4,3,No,No
+EMP-0126,Finance,Senior,6663,5,5,No,No
+EMP-0127,Operations,Manager,10328,9,4,No,No
+EMP-0128,Human Resources,Senior,10096,12,4,No,No
+EMP-0129,Operations,Senior,6560,4,4,Yes,No
+EMP-0130,Finance,Senior,8918,9,4,Yes,No
+EMP-0131,Human Resources,Lead,6700,5,2,Yes,No
+EMP-0132,Engineering,Senior,4854,1,4,Yes,No
+EMP-0133,Marketing,Associate,8682,8,3,Yes,No
+EMP-0134,Human Resources,Senior,10362,12,5,Yes,No
+EMP-0135,Marketing,Manager,9466,7,4,No,No
+EMP-0136,Human Resources,Manager,6548,5,2,No,No
+EMP-0137,Marketing,Lead,14395,13,4,Yes,No
+EMP-0138,Engineering,Lead,11938,10,4,No,No
+EMP-0139,Human Resources,Director,5964,5,3,No,No
+EMP-0140,Marketing,Manager,10326,9,5,No,No
+EMP-0141,Sales,Senior,8328,8,5,No,No
+EMP-0142,Operations,Associate,6384,3,4,Yes,No
+EMP-0143,Operations,Associate,15231,14,2,No,No
+EMP-0144,Operations,Senior,5673,3,2,Yes,No
+EMP-0145,Operations,Director,8362,9,4,No,No
+EMP-0146,Finance,Lead,4505,1,4,No,Yes
+EMP-0147,Sales,Associate,4996,1,2,Yes,No
+EMP-0148,Marketing,Lead,5960,4,4,Yes,No
+EMP-0149,Sales,Senior,8620,6,3,Yes,No
+EMP-0150,Engineering,Associate,13063,11,4,No,No
+EMP-0151,Engineering,Senior,7459,7,2,No,No
+EMP-0152,Finance,Associate,12598,14,4,Yes,No
+EMP-0153,Finance,Manager,6674,4,3,Yes,No
+EMP-0154,Finance,Director,11297,15,5,Yes,No
+EMP-0155,Sales,Director,5943,3,3,No,No
+EMP-0156,Sales,Director,9786,15,4,No,No
+EMP-0157,Operations,Associate,8195,7,4,No,No
+EMP-0158,Finance,Director,3903,1,4,No,Yes
+EMP-0159,Human Resources,Manager,11165,13,3,No,No
+EMP-0160,Operations,Director,10851,9,5,No,No
+EMP-0161,Engineering,Associate,5008,2,3,Yes,Yes
+EMP-0162,Operations,Manager,9060,7,3,No,No
+EMP-0163,Marketing,Associate,5759,2,3,Yes,No
+EMP-0164,Finance,Manager,5831,3,2,Yes,No
+EMP-0165,Human Resources,Associate,4269,2,3,No,Yes
+EMP-0166,Finance,Senior,9431,7,4,Yes,No
+EMP-0167,Marketing,Lead,9352,11,4,Yes,No
+EMP-0168,Engineering,Lead,4485,2,3,Yes,Yes
+EMP-0169,Sales,Manager,11987,12,2,Yes,No
+EMP-0170,Finance,Manager,5804,5,3,No,No
+EMP-0171,Operations,Director,8080,6,3,No,No
+EMP-0172,Human Resources,Lead,8238,6,3,No,No
+EMP-0173,Human Resources,Director,7489,6,3,No,No
+EMP-0174,Marketing,Associate,8156,7,4,Yes,No
+EMP-0175,Finance,Associate,11348,10,5,No,No
+EMP-0176,Operations,Associate,10401,12,4,No,No
+EMP-0177,Operations,Senior,5444,3,5,No,No
+EMP-0178,Finance,Manager,11058,13,4,No,No
+EMP-0179,Operations,Manager,10264,9,4,Yes,No
+EMP-0180,Finance,Director,14639,13,5,Yes,No
+EMP-0181,Operations,Director,5730,2,2,No,No
+EMP-0182,Engineering,Associate,11516,13,2,No,No
+EMP-0183,Finance,Director,6454,4,3,No,No
+EMP-0184,Finance,Director,7883,6,3,No,No
+EMP-0185,Operations,Senior,4183,1,3,No,Yes
+EMP-0186,Human Resources,Lead,6906,6,4,Yes,No
+EMP-0187,Engineering,Lead,9415,8,2,Yes,No
+EMP-0188,Sales,Senior,5035,1,4,Yes,No
+EMP-0189,Human Resources,Senior,8296,9,4,Yes,No
+EMP-0190,Engineering,Director,5832,3,3,No,No
+EMP-0191,Sales,Senior,8727,10,3,Yes,No
+EMP-0192,Sales,Lead,9150,10,3,Yes,No
+EMP-0193,Human Resources,Director,7906,8,5,No,No
+EMP-0194,Engineering,Lead,9339,10,3,No,No
+EMP-0195,Marketing,Director,9037,10,4,Yes,No
+EMP-0196,Marketing,Associate,8225,11,3,No,No
+EMP-0197,Finance,Senior,9255,12,4,No,No
+EMP-0198,Operations,Senior,7591,7,4,Yes,No
+EMP-0199,Human Resources,Director,7498,8,2,No,No
+EMP-0200,Operations,Manager,3984,1,4,No,No
+EMP-0201,Sales,Associate,8676,7,4,Yes,No
+EMP-0202,Marketing,Senior,12741,13,4,No,No
+EMP-0203,Human Resources,Director,6268,3,4,Yes,No
+EMP-0204,Marketing,Director,9007,10,2,No,No
+EMP-0205,Operations,Senior,8237,9,3,Yes,No
+EMP-0206,Engineering,Manager,8765,8,2,Yes,No
+EMP-0207,Marketing,Director,7072,4,5,No,No
+EMP-0208,Sales,Associate,6509,3,4,No,No
+EMP-0209,Marketing,Lead,8689,9,3,No,No
+EMP-0210,Engineering,Senior,13281,14,4,Yes,No
+EMP-0211,Sales,Senior,6987,5,3,No,No
+EMP-0212,Human Resources,Manager,11673,14,3,No,No
+EMP-0213,Operations,Associate,10126,11,4,No,No
+EMP-0214,Human Resources,Lead,13032,12,4,Yes,No
+EMP-0215,Operations,Manager,14400,14,5,No,No
+EMP-0216,Sales,Manager,10023,14,3,No,No
+EMP-0217,Finance,Director,6212,5,3,No,No
+EMP-0218,Engineering,Associate,11352,13,2,No,No
+EMP-0219,Engineering,Manager,5164,1,3,Yes,No
+EMP-0220,Marketing,Associate,13217,15,5,No,No
+EMP-0221,Operations,Senior,6493,5,2,No,No
+EMP-0222,Sales,Manager,10143,11,5,Yes,No
+EMP-0223,Engineering,Senior,8683,12,4,Yes,No
+EMP-0224,Operations,Lead,9066,9,2,No,No
+EMP-0225,Human Resources,Associate,8576,12,5,Yes,No
+EMP-0226,Sales,Senior,5812,2,2,Yes,Yes
+EMP-0227,Operations,Senior,10480,10,5,Yes,No
+EMP-0228,Sales,Associate,12843,15,2,Yes,No
+EMP-0229,Marketing,Manager,10300,13,3,Yes,No
+EMP-0230,Finance,Director,5211,4,4,No,No
+EMP-0231,Operations,Lead,13148,13,3,Yes,No
+EMP-0232,Sales,Manager,10972,12,4,Yes,No
+EMP-0233,Finance,Associate,6587,4,3,No,No
+EMP-0234,Human Resources,Lead,6342,3,4,Yes,No
+EMP-0235,Engineering,Associate,12624,13,4,Yes,No
+EMP-0236,Human Resources,Director,3584,1,3,No,Yes
+EMP-0237,Finance,Director,7929,7,4,Yes,No
+EMP-0238,Sales,Senior,5325,5,4,No,No
+EMP-0239,Operations,Associate,8968,7,3,No,No
+EMP-0240,Sales,Associate,12853,12,4,Yes,No
+EMP-0241,Operations,Senior,8269,8,2,Yes,No
+EMP-0242,Human Resources,Lead,8481,12,4,No,No
+EMP-0243,Marketing,Associate,6145,3,2,No,No
+EMP-0244,Marketing,Director,11480,13,5,Yes,No
+EMP-0245,Human Resources,Director,8376,8,3,No,No
+EMP-0246,Finance,Associate,4711,3,3,Yes,No
+EMP-0247,Marketing,Manager,3768,1,3,Yes,Yes
+EMP-0248,Operations,Manager,14832,15,3,No,No
+EMP-0249,Marketing,Associate,6706,4,4,No,No
+EMP-0250,Finance,Associate,6005,2,4,Yes,Yes
